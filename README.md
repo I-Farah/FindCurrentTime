@@ -1,0 +1,1 @@
+Simple Java Program to find current time using the currentTimeMillis method.
